@@ -4,5 +4,5 @@
 
 ## *Concept:*
 <!-- - this is a bullet -->
-- [ ] Build a simple flag of the country I have chosen to the best of my ability
+- [ ] Build a simple flag of the country that I have chosen to the best of my ability
 - [ ] will utilize HTML and CSS to accomplish this # CountryFlag
